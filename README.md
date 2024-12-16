@@ -1,4 +1,9 @@
 # Portfolio2
-In a project like setting up a sandboxed virtual network using VirtualBox, there are several build-up points or key steps that contribute to the overall success of the setup. These points are essentially the tasks or milestones that you will accomplish as you work through the process of designing, configuring, and testing your network. Here's a breakdown of the build-up points for this project:
+This sandboxed network diagram in VirtualBox consists of three core components: Ubuntu Desktop, a Server, and a Web Server. Each component connects to internal networks with private IP addresses and can simulate real-world environments for testing, networking, and server setups.
+1. Ubuntu Desktop
+. LAN Adaptor: 1
+. VirtualBox Setting: Internal Network
+. IP Address: 192.168.31.1
+. This machine likely acts as a client device for testing connections to the server and webserver.
 
 

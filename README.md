@@ -21,7 +21,8 @@ Networking Design
 * 192.168.131.24 (for Server to WebServer communication).
 * The Server functions as a router or gateway between the two networks. It facilitates communication while maintaining isolation.
 * The NAT adaptor on the Server allows Internet access.
-**Key Learning Outcomes**
+  
+# **Key Learning Outcomes**
 * IP Addressing & Subnetting:
 Configuring private IP addresses (192.168.x.x) and understanding how devices in different ranges interact.
 * Network Bridging & Routing:

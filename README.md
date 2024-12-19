@@ -24,7 +24,7 @@ Networking Design
   
 # **Key Learning Outcomes**
 * IP Addressing & Subnetting:
-Configuring private IP addresses (192.168.x.x) and understanding how devices in different ranges interact.
+Configuring private IP addresses (192.168.31.1) and understanding how devices in different ranges interact.
 * Network Bridging & Routing:
 Understanding how a server acts as a bridge between two internal networks.
 * Server & Client Setup:
